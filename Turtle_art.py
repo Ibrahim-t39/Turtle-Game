@@ -1,4 +1,5 @@
 from random import *
+from turtle import Screen
 import turtle as t
 
 tom = t.Turtle()
