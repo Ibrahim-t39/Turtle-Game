@@ -1,9 +1,5 @@
 # Turtle Graphics Art Projects
 
-## Short Description
-
-Two creative Turtle Graphics projects using Python's Turtle module. The first project creates a random walk pattern with a turtle that changes color and direction. The second project generates a colorful spirograph by drawing circles with varying angles. Both projects were inspired by Angela Yu's Udemy course.
-
 ## Full Description
 
 These Turtle Graphics Art projects demonstrate the use of Python's Turtle module to create visually engaging designs. Each project showcases different techniques for manipulating a turtle's movement, color, and speed to generate dynamic patterns.
